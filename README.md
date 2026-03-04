@@ -28,7 +28,7 @@ In a shorter 16-episode evaluation, SliceBank scored **100%** with zero failures
 
 ## Full Report
 
-📄 **[SliceBank: Evaluation Results and Benchmark Comparison (PDF)](slicebank_context_card.pdf)**
+📄 **[SliceBank: Evaluation Results and Benchmark Comparison (PDF)](slicebank.pdf)**
 
 ## About
 
